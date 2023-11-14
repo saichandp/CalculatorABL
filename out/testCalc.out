@@ -1,0 +1,17 @@
+Testing Calculator.cls 
+
+>>> Test Add(5, 1)
+>>> Result:  6 
+
+>>> Test Subtract(5, 1)
+>>> Result:  4 
+
+>>> Test Multiply(5, 1)
+>>> Result:  5 
+
+>>> Test Divide(5, 0)
+>>> Result:  ERROR DIVISION BY ZERO 
+
+>>> Test Divide(5, 2)
+>>> Result:  2.5 
+
