@@ -1,0 +1,9 @@
+languages:
+  - name: abl
+  - name: progress
+component_base_dirs:
+  - "src"
+  - "bin"
+  - "images"
+architecture:
+  enabled: true
